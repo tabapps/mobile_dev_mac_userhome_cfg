@@ -1,0 +1,2 @@
+#!/bin/sh
+blackberry-deploy -installDebugToken bbidtoken.csk -device 169.254.0.1 -password Welkom123 

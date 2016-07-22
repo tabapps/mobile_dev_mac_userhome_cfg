@@ -1,0 +1,2 @@
+#First Parm should be BlackBerryIdPassword
+webworks --verbose run --devicepass $0 --keystorepass Welkom123 

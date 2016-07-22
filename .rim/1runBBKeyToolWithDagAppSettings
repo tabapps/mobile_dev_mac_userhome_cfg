@@ -1,0 +1,4 @@
+#!/bin/sh
+
+blackberry-keytool -genkeypair -storepass Welkom123 -dname "CN=De Nederlandsche Bank"
+ 
